@@ -8,7 +8,8 @@ Please use the files in folder ./plot_constellation to:
 - Plot constellations for various MC-AE parameters N and M, as well as constellation of the baselines.
 - Calculate the minimum Enclidean distance (MED) for learned codewords of MC-AE.
 
-The BLER of MC-AE can be quickly obtained by running the pre-trained model in folder ./models
+The BLER of MC-AE can be quickly obtained by running the pre-trained model stored in folder ./models. 
+The main file of MC-AE is MC_AE.py. 
 
 Requirements: 
 - Tensorflow 1.15, Keras 2.0.8.
