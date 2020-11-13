@@ -1,7 +1,7 @@
 # Multicarrier Autoencoder
 This is the first implementation of multicarrier autoencoder communication systems in the following paper:
 
-T. V. Luong, Y. Ko and et. al, "Deep learning aided multicarrier systems", IEEE Trans. Wireless Commun., under review, June, 2020.
+T. V. Luong, Y. Ko and et. al, "Deep learning aided multicarrier systems", IEEE Trans. Wireless Commun., Nov., 2020 (Accepted).
 
 Please use the files in folder ./plot_constellation to:
 - Calculate coding gains for the proposed MC-AE and baselines whose constellation data is saved in folder ./plot_constellation/cons_data.
